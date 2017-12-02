@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Max Harley&#39;s Blog</title>
+    <link>http://maxh.io/posts/</link>
+    <description>Recent content in Posts on Max Harley&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2017 19:36:33 -0500</lastBuildDate>
+    
+	<atom:link href="http://maxh.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eversec CTF - ever-sh: A Reverse-Engineering Challenge</title>
+      <link>http://maxh.io/posts/eversec/</link>
+      <pubDate>Mon, 13 Nov 2017 19:36:33 -0500</pubDate>
+      
+      <guid>http://maxh.io/posts/eversec/</guid>
+      <description>This Saturday, the Clemson cyber security team, CU Cyber, and Tillson Galloway competed on one team at BSides Charleston. As all Eversec CTF&amp;rsquo;s, this was an awesome event and had super fun challenges. As a binary nerd, I&amp;rsquo;d like to give a writeup of one of the few binary challeges.
+On the home page, there was a challenge called evrs-sh. After downloading the binary, I did a quick file evrs-sh to find that this was a 32 bit ELF.</description>
+    </item>
+    
+    <item>
+      <title>Using TShark to Get Telnet Credentials</title>
+      <link>http://maxh.io/posts/tshark/</link>
+      <pubDate>Wed, 08 Nov 2017 19:56:41 -0500</pubDate>
+      
+      <guid>http://maxh.io/posts/tshark/</guid>
+      <description>Telnet is a great tool. Maybe not for security, but remote administration is always good&amp;hellip; right? For Dr. Richard Brooks&amp;rsquo;s gave his ECE 4490 class lab time to demonstrate how Telnet passwords could be ripped from PCAP files. The task was to point out where passwords and user names were visible in the TCP stream. Pretty easy, right? Just right click a Telnet packet on Wireshark and &amp;ldquo;Follow Stream.&amp;rdquo;
+Mackenzie Binns and I decided to take it up a notch and do some Bash scripting to output the username and password directly.</description>
+    </item>
+    
+    <item>
+      <title>Implementation of `git-fuck`</title>
+      <link>http://maxh.io/posts/git-fuck/</link>
+      <pubDate>Sat, 29 Oct 2016 15:27:47 -0500</pubDate>
+      
+      <guid>http://maxh.io/posts/git-fuck/</guid>
+      <description>Story It always sucks to mess things up when you&amp;rsquo;re trying so hard to be clever.
+Here&amp;rsquo;s the backstory: I was in the process of setting up a Gentoo machine, but all of my config files for i3, terminator, and fish were on my Arch laptop. I thought of a really slick solution of initializing a git repository and uploading my config files to GitHub so that I could have a back-up of them anywhere I go.</description>
+    </item>
+    
+    <item>
+      <title>Reddit Recon-ng Module</title>
+      <link>http://maxh.io/posts/recon-ng/</link>
+      <pubDate>Thu, 30 Jun 2016 15:29:49 -0500</pubDate>
+      
+      <guid>http://maxh.io/posts/recon-ng/</guid>
+      <description>The Reddit Recon-ng Module Recon-ng is a metasploit-like framework for doing reconnaissance work on a person, company, or domain. It has nice features like being able to make Google searches to find domains that might not be known to you, or searching through password dumps for username and passwords. It is easy to set up, extremely powerful, and very extensible. The BitBucket link is here. The best part about the framework is how easy module creation is.</description>
+    </item>
+    
+    <item>
+      <title>Porter-Gaud Cyber Security 2016</title>
+      <link>http://maxh.io/posts/pg/</link>
+      <pubDate>Fri, 03 Jun 2016 15:30:43 -0500</pubDate>
+      
+      <guid>http://maxh.io/posts/pg/</guid>
+      <description>Intro This year I founded the Porter-Gaud cybersecurity club. I had a lot of successes and a few failures during the year, so I wanted to share those with everybody. I decided to make the club because I knew that there were at least 4 people that would participate, and wanted to get others interested in security. I knew that I would get a lot of help from Soteria, a Charleston-local company I work for, to help teach the students.</description>
+    </item>
+    
+    <item>
+      <title>Palmetto Cyber Defense Challenge</title>
+      <link>http://maxh.io/posts/pcdc2016/</link>
+      <pubDate>Mon, 11 Apr 2016 15:31:32 -0500</pubDate>
+      
+      <guid>http://maxh.io/posts/pcdc2016/</guid>
+      <description>PCDC Intro This weekend, I competed in the Palmetto Cyber Defense Competition with the Porter-Gaud Cyber Security team. There were eight teams that competed. Two teams were invited back from last year, and the other six teams were selected from getting top 6 at CyberPatriot in South Carolina. Since this was the first year that PG competed in CyberPatriot, so it was also our first year at PCDC. Scoring for PCDC is based on two parts: services and business injects.</description>
+    </item>
+    
+  </channel>
+</rss>
