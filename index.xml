@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Polymorphic Compression Prepender Malware</title>
+      <link>https://t94j0.github.io/posts/polymalware/</link>
+      <pubDate>Sat, 02 Dec 2017 18:37:17 -0500</pubDate>
+      
+      <guid>https://t94j0.github.io/posts/polymalware/</guid>
+      <description>Introduction I have, for the past 6 months or so, learned that I really enjoy reverse engineering malware (shout out to VirusShare.com). I thought to myself &amp;ldquo;how hard can it be to actually make malware?&amp;rdquo; The answer is: pretty damn hard. I decided to start off small and try my hand at making a compression prepender virus because it seemed pretty easy. For those who don&amp;rsquo;t know what a compression prepender virus is, it&amp;rsquo;s simply a virus that prepends itself to the host, compresses the host, and saves the binary in that order.</description>
+    </item>
+    
+    <item>
       <title>Eversec CTF - ever-sh: A Reverse-Engineering Challenge</title>
       <link>https://t94j0.github.io/posts/eversec/</link>
       <pubDate>Mon, 13 Nov 2017 19:36:33 -0500</pubDate>
